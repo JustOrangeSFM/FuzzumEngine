@@ -1,123 +1,43 @@
-Fuzzum Engine — End User License Agreement (EULA)
-
-Version: 1.0  
-Date: July 25, 2025  
-Author: Orange SFM  
+Fuzzum Engine – Source Code License  
 Copyright © 2025 Orange SFM  
-All Rights Reserved
+All Rights Reserved  
 
-This End User License Agreement (“Agreement”) is a legal contract between the individual or entity (“User”) and Orange SFM (“Author”) governing the use of the software product known as “Fuzzum Engine” (“Engine”).
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of the Fuzzum Engine source code (excluding the BuildTool and related  
+build-system components, which are not distributed herein) to use, modify,  
+and distribute the Engine for any purpose, including commercial game  
+development, subject to the following conditions:
 
-By downloading, installing, copying, accessing, or using the Engine or any portion thereof, you agree to be bound by the terms of this Agreement.
+1. **Attribution**:  
+   All products created with Fuzzum Engine must visibly include the credit:  
+   > "Powered by Fuzzum Engine — developed by Orange SFM"  
+   This must appear in at least one of: in-game credits, documentation,  
+   README files, app store listings, or public-facing materials.
 
-──────────────────────────────────────────────
-1. LICENSE GRANT
-──────────────────────────────────────────────
+2. **No Engine Derivatives**:  
+   You may not use any part of the Engine to create, distribute, or market  
+   another game engine, SDK, framework, middleware, or development toolkit —  
+   whether commercial or open source.
 
-Subject to compliance with this Agreement, the Author hereby grants the User a perpetual, worldwide, non-exclusive, royalty-free license to:
+3. **Trademark Restrictions**:  
+   The names “Fuzzum” and “Fuzzum Engine” are exclusive trademarks of  
+   Orange SFM. You may not use them in the name, domain, branding, or  
+   repository title of any development tool, engine, or SDK not authored  
+   by Orange SFM.
 
-- Use the Engine for personal or commercial purposes;
-- Modify the Engine’s source code;
-- Distribute the original or modified versions of the Engine;
+4. **Redistribution**:  
+   Redistribution of the Engine (or modified versions) is permitted only  
+   if this license text and copyright notice are included unmodified,  
+   and the attribution requirement (1) is preserved.
 
-This license does **not** transfer ownership or intellectual property rights in the Engine to the User.
+5. **No Warranty**:  
+   THE ENGINE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,  
+   EXPRESS OR IMPLIED. IN NO EVENT SHALL ORANGE SFM BE LIABLE FOR ANY  
+   DAMAGES ARISING FROM THE USE OF THE ENGINE.
 
-──────────────────────────────────────────────
-2. AUTHORSHIP & ATTRIBUTION
-──────────────────────────────────────────────
+6. **Excluded Components**:  
+   The BuildTool, Ninja scripts, build automation tools, and any  
+   non-distributed build-system components are **not part of this license**  
+   and remain the exclusive property of Orange SFM.
 
-All projects and redistributions based on the Engine must visibly and explicitly credit the Author using the following text:
-
-    Powered by Fuzzum Engine — developed by Orange SFM
-
-This credit must appear in:  
-- In-game splash screens or credits;  
-- Documentation, About menus, or README files;  
-- Any public presentations, trailers, or storefronts where the Engine is materially involved.
-
-The credit must remain legible, unmodified, and not hidden from end users.
-
-──────────────────────────────────────────────
-3. PROHIBITED USE: DERIVATIVE ENGINES
-──────────────────────────────────────────────
-
-You may not use the Engine, in part or in whole, to create, market, or distribute any software product that qualifies as a game engine, SDK, framework, toolkit, or middleware — regardless of license model (commercial or open source).
-
-Examples of prohibited use include:  
-- Rebranding and distributing the Engine as a new game engine;  
-- Forking the Engine and marketing it as a different product;  
-- Creating competing engines based on any portion of Fuzzum Engine.
-
-Violation of this clause will result in **immediate termination** of this license.
-
-──────────────────────────────────────────────
-4. REDISTRIBUTION CONDITIONS
-──────────────────────────────────────────────
-
-Redistribution of the Engine or modified versions is permitted **only if** the following conditions are met:
-
-- This LICENSE.txt file is included in full;  
-- Attribution (see Section 2) is preserved without alteration;  
-- The redistributed version clearly identifies itself as based on Fuzzum Engine;  
-- You do not claim authorship or exclusive rights to the Engine.
-
-You must not mislead users or the public about the origin of the Engine or its components.
-
-──────────────────────────────────────────────
-5. COMMERCIAL USE
-──────────────────────────────────────────────
-
-You may develop and publish commercial products using the Engine without paying royalties or fees to Orange SFM.
-
-However, all such products must comply with this Agreement, especially attribution and branding restrictions.
-
-──────────────────────────────────────────────
-6. DISCLAIMER OF WARRANTY
-──────────────────────────────────────────────
-
-THE ENGINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
-THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE ENGINE, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
-
-Use of the Engine is entirely at your own risk.
-
-──────────────────────────────────────────────
-7. TRADEMARK & NAMING RESTRICTIONS
-──────────────────────────────────────────────
-
-The name “Fuzzum Engine”, “Fuzzum”, and any variations thereof are trademarks and intellectual property of Orange SFM.
-
-You may not:  
-- Use “Fuzzum”, “Fuzzum Engine”, or similar in the name of any product, tool, engine, or SDK not created or authorized by Orange SFM;  
-- Register domains, repositories, apps, or services using “Fuzzum”;  
-- Claim or imply endorsement or affiliation without written permission.
-
-The only permitted use is the required credit in Section 2.  
-Violation constitutes trademark infringement and grounds for legal action and license termination.
-
-──────────────────────────────────────────────
-8. TERMINATION
-──────────────────────────────────────────────
-
-This license is automatically terminated if you violate any term of this Agreement.  
-Upon termination, you must cease all use, distribution, and reproduction of the Engine and destroy all copies in your possession.
-
-Reinstatement requires express written approval from the Author.
-
-──────────────────────────────────────────────
-9. JURISDICTION & ENFORCEMENT
-──────────────────────────────────────────────
-
-This Agreement is governed by international copyright, intellectual property, and software law.
-
-Any legal action or dispute shall be interpreted under internationally recognized principles, regardless of local jurisdiction.  
-The Author reserves the right to pursue remedies in any appropriate legal venue worldwide.
-
-──────────────────────────────────────────────
-10. ACCEPTANCE
-──────────────────────────────────────────────
-
-By obtaining, copying, modifying, or using any part of Fuzzum Engine, you affirm that you have read and understood this Agreement and agree to be legally bound by its terms.
-
-──────────────────────────────────────────────
-© 2025 Orange SFM — All Rights Reserved
-──────────────────────────────────────────────
+By using the Fuzzum Engine source code, you agree to these terms.
