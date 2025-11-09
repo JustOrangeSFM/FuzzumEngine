@@ -71,10 +71,6 @@ We welcome bug reports, feature suggestions, and code contributions!
 
 
 
-
-
-
-
 # Fuzzum Engine
 
 **Fuzzum Engine** — это современный игровой движок с открытым исходным кодом ядра, созданный **Orange SFM**.  
